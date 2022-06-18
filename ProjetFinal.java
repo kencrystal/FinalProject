@@ -197,7 +197,7 @@ class Paddle{
     rect(x-w/2,y-h/2,w,h);
   } 
 
-  // Fonction qui affiche le gagnant du match. 
+  // Fonction qui affiche le gagnant du match. (Ne marche pas)
   if (scoreLeft == 4 ){
     System.out.print("le joeur gauche à gagner. Félicitation");
   }
