@@ -1,6 +1,4 @@
-public class ProjetFinal {
-
- Ball ball; // Define the ball as a global object 
+Ball ball; // Define the ball as a global object 
 
 Paddle paddleLeft;
 Paddle paddleRight;
